@@ -15,11 +15,11 @@ _Porque las palabras tienen un concepto ligadas a ellas y estas palabras pueden 
 ## 3.	Pensar en las falacias más comunes de nuestra sociedad y dar un ejemplo de cada una (mínimo 3).
 _Las falacias del sentimentalismo: ej.:**cuando una persona considera erroneo un argumento de otro, porque este traera consecuencias que se consideran negativas**_
 
-_Falacia naturalista: ej.:**
+_Falacia naturalista: ej.:**Cuando a alguien le va mal en una prueba y para que no lo reten se justifica que a todo el curso le fue mal**_
 
-_Falacia de autoridad: ej.:**cuando en un discusion el argumento de una persona se basa en lo que dicen en las noticias**_
+_Falacia de autoridad: ej.:**Cuando alguien se justifica diciendo que lo dijieron en la noticia**_
 
 
 ## 4.	Qué piensa de este artículo?  Entregue al menos 2 argumento ( pensando en valores)
 
-_En mi opinion este articulo y su contenido es bastante realista, en sentido que entrega conocimiento e informacion que relaciona con temas actuales. Y es un articulo bastante sencillo de entender, gracias a los ejemplos que el autor usa para explicar los distintos temas que aborda. 
+_En mi opinion este articulo y su contenido es bastante realista, en sentido que entrega conocimiento e informacion que relaciona con temas actuales. Y es un articulo bastante sencillo de entender, gracias a los ejemplos que el autor usa para explicar los distintos temas que aborda._ 
