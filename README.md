@@ -1,5 +1,5 @@
 
-#Lectura: guaje, falacias y el peligro de Babel
+# Lectura: Lenguaje, falacias y el peligro de Babel
 Control de Lectura 
 
 ## 1.	¿Por qué se afirma que el lenguaje es un arma peligrosísima?
