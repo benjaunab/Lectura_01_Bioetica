@@ -1,6 +1,6 @@
 
-# Lectura: Lenguaje, falacias y el peligro de Babel
-Control de Lectura 
+# Lectura: Lenguaje, falacias y el peligro de Babel 
+Alumno: Benjamin Flores Oviedo
 
 ## 1.	¿Por qué se afirma que el lenguaje es un arma peligrosísima?
 _Porque las palabras que componen el lenguaje, cada una, tiene un significado acorde a los valores, vision del mundo, cultura y manera de pensar de las personas de una sociedad. Pero estas palabras pueden cambiar su significado a medida que pasa el tiempo, de esta forma cambiando las caracteristicas mencionadas anteriormente. Por esta razon el lenguaje es un arma peligrosísima, ya que, cambiando el significado de algunas palabras una sociedad puede cambiar drasticamente._
